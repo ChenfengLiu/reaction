@@ -1,0 +1,4 @@
+[submodule "imports/plugins/custom/my-custom-plugin"]
+	path = imports/plugins/custom/my-custom-plugin
+	url = https://github.com/ChenfengLiu/my-custom-plugin.git
+	branch = master
